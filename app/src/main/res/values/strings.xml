@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlterDialog-Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="alter1">确认对话框</string>
+    <string name="alter2">单选按钮对话框</string>
+    <string name="alter3">多选按钮对话框</string>
+    <string name="alter4">列表对话框</string>
+    <string name="alter5">自定义对话框</string>
+</resources>
